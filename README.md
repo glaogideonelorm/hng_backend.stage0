@@ -19,7 +19,7 @@ This project is a simple public API that returns basic information in JSON forma
 {
   "email": "glagogideonelorm2006@gmail.com",
   "current_datetime": "2025-01-29T12:12:55.308491Z",
-  "github_url": "https://github.com/glaogideonelorm/HNG/tree/26d86fe93eed7ea0785ed8ca62cd7d170057339b/stage%200/backend"
+  "github_url": "https://github.com/glaogideonelorm/hng_backend.stage0"
 }
 
 ```
@@ -29,14 +29,14 @@ This project is a simple public API that returns basic information in JSON forma
 1.  Clone the repository:
     
     ```sh
-    git clone https://github.com/glaogideonelorm/HNG/
+    git clone https://github.com/glaogideonelorm/hng_backend.stage0/
     
     ```
     
 2.  Navigate to the project folder:
     
     ```sh
-    cd HNG12/stage0/backend
+    cd /
     
     ```
     
